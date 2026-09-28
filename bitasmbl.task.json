@@ -9,19 +9,21 @@
     {
       "file": "Backend/Models/Task.cs",
       "requirementId": 931,
-      "lastModified": "2026-09-27T17:42:29.155Z",
+      "lastModified": "2026-09-28T05:18:44.726Z",
       "activity": {
-        "editEvents": 3,
-        "activeDurationSec": 70,
-        "idleBreaks": 0,
-        "medianEditIntervalSec": 35,
+        "editEvents": 5,
+        "activeDurationSec": 601,
+        "idleBreaks": 1,
+        "medianEditIntervalSec": 148.5,
         "intervalSamples": [
           66,
-          4
+          4,
+          41544,
+          231
         ]
       },
       "diffStats": {
-        "linesAdded": 23,
+        "linesAdded": 0,
         "linesDeleted": 0
       },
       "sourceHints": {
