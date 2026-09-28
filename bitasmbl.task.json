@@ -1,0 +1,33 @@
+{
+  "projectApplicationLinkedRepoId": 26,
+  "projectApplicationId": 41,
+  "requirementId": 931,
+  "files": [
+    "Backend/Models/Task.cs"
+  ],
+  "activityMeta": [
+    {
+      "file": "Backend/Models/Task.cs",
+      "requirementId": 931,
+      "lastModified": "2026-09-27T17:42:29.155Z",
+      "activity": {
+        "editEvents": 3,
+        "activeDurationSec": 70,
+        "idleBreaks": 0,
+        "medianEditIntervalSec": 35,
+        "intervalSamples": [
+          66,
+          4
+        ]
+      },
+      "diffStats": {
+        "linesAdded": 23,
+        "linesDeleted": 0
+      },
+      "sourceHints": {
+        "possiblePaste": false,
+        "suspiciousJump": false
+      }
+    }
+  ]
+}
