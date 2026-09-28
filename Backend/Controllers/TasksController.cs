@@ -15,4 +15,18 @@ public class TasksController(IEmailService emailService) : ControllerBase
             throw;
         }
     }
+
+    [HttpPost("task")]
+    public async Task<IActionResult> SendSnsDirectEmail()
+    {
+        try
+        {
+            return Ok("Task Created!! Big one!!!");
+        }
+        catch (System.Exception)
+        {
+
+            throw;
+        }
+    }
 }
