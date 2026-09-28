@@ -3,13 +3,13 @@
   "projectApplicationId": 41,
   "requirementId": 932,
   "files": [
-    "Backend/Controllers/TasksController.cs"
+    "Backend/DTO/Task.cs"
   ],
   "activityMeta": [
     {
-      "file": "Backend/Controllers/TasksController.cs",
+      "file": "Backend/DTO/Task.cs",
       "requirementId": 932,
-      "lastModified": "2026-09-28T05:27:24.313Z",
+      "lastModified": "2026-09-28T13:48:03.716Z",
       "activity": {
         "editEvents": 1,
         "activeDurationSec": 0,
@@ -18,7 +18,7 @@
         "intervalSamples": []
       },
       "diffStats": {
-        "linesAdded": 20,
+        "linesAdded": 8,
         "linesDeleted": 0
       },
       "sourceHints": {

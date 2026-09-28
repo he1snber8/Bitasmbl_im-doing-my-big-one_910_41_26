@@ -1,0 +1,45 @@
+{
+  "projectName": "Task Management API",
+  "projectOverview": "Build a task management REST API using .NET with controllers, DTOs, service-layer logic, validation, and structured task workflows.",
+  "techStackId": 20,
+  "projectId": 411,
+  "requirements": [
+    {
+      "id": 931,
+      "header": "Define task entity",
+      "description": "Create the task domain entity with title, description, due date, completion status, priority, and timestamps.",
+      "paths": ["**/Models/**", "**/Entities/**", "**/Domain/**"],
+      "projectRequirementMilestones": []
+    },
+    {
+      "id": 932,
+      "header": "Build task endpoints",
+      "description": "Implement task CRUD endpoints using controllers and request/response DTOs.",
+      "paths": [
+        "**/Controllers/**",
+        "**/DTO/**",
+        "**/Requests/**",
+        "**/Responses/**"
+      ],
+      "projectRequirementMilestones": []
+    },
+    {
+      "id": 933,
+      "header": "Implement task service logic",
+      "description": "Add service-layer logic for task workflow rules, filtering, and validation.",
+      "paths": ["**/Services/**", "**/Interfaces/**", "**/Validators/**"],
+      "projectRequirementMilestones": []
+    }
+  ],
+  "projectApplicationId": 41,
+  "currentWorkingProject": "https://github.com/he1snber8/Bitasmbl_im-doing-my-big-one_910_41_26",
+  "domains": [
+    {
+      "name": "BackEnd",
+      "tech": [".NET"],
+      "initializedLocally": false,
+      "repo": "https://github.com/he1snber8/Bitasmbl_im-doing-my-big-one_910_41_26",
+      "localPath": "/Users/lukakhaja/Bitasmbl_im-doing-my-big-one_910_41_26"
+    }
+  ]
+}
