@@ -9,16 +9,19 @@
     {
       "file": "Backend/Interfaces/ITaskService.cs",
       "requirementId": 933,
-      "lastModified": "2026-09-29T10:54:06.622Z",
+      "lastModified": "2026-09-29T10:59:04.499Z",
       "activity": {
-        "editEvents": 1,
-        "activeDurationSec": 0,
+        "editEvents": 3,
+        "activeDurationSec": 297,
         "idleBreaks": 0,
-        "medianEditIntervalSec": 0,
-        "intervalSamples": []
+        "medianEditIntervalSec": 148.5,
+        "intervalSamples": [
+          164,
+          133
+        ]
       },
       "diffStats": {
-        "linesAdded": 4,
+        "linesAdded": 2,
         "linesDeleted": 0
       },
       "sourceHints": {
