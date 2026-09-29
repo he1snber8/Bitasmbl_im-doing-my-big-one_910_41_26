@@ -1,15 +1,15 @@
 {
   "projectApplicationLinkedRepoId": 26,
   "projectApplicationId": 41,
-  "requirementId": 932,
+  "requirementId": 933,
   "files": [
-    "Backend/Controllers/TasksController.cs"
+    "Backend/Interfaces/ITaskService.cs"
   ],
   "activityMeta": [
     {
-      "file": "Backend/Controllers/TasksController.cs",
-      "requirementId": 932,
-      "lastModified": "2026-09-28T15:52:36.234Z",
+      "file": "Backend/Interfaces/ITaskService.cs",
+      "requirementId": 933,
+      "lastModified": "2026-09-29T10:54:06.622Z",
       "activity": {
         "editEvents": 1,
         "activeDurationSec": 0,
@@ -18,7 +18,7 @@
         "intervalSamples": []
       },
       "diffStats": {
-        "linesAdded": 14,
+        "linesAdded": 4,
         "linesDeleted": 0
       },
       "sourceHints": {
