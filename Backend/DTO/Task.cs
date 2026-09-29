@@ -6,3 +6,9 @@ public class Task
     public Status Status { get; set; }
     public Priority Priority { get; set; }
 }
+public class TaskCreateRequest
+{
+    public string Title { get; set; }
+    public string Description { get; set; }
+    public string DueDate { get; set; }
+}
